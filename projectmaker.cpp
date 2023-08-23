@@ -1,7 +1,8 @@
-#include <iostream>
-#include <cstring>
-#include <chrono>
-#include <thread>
+#include<bits/stdc++.h>
+// #include <iostream>
+// #include <cstring>
+// #include <chrono>
+// #include <thread>
 
 void animateRotation(int durationMs) {
     const int numOfFrames = 4;
